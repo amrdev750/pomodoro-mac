@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Initial production release of Focus Matrix.",
+  "pub_date": "2026-10-29T16:30:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQkJXZWtTSkRyWXZvWEI5eHYzK2FDU3U5R0lDZ1kwQjJnR2hhVXJwM0RvL1F1bGg2RmFzT3Z1MFVZQXE3MjFsOUtmMjFFWUVsMU5QQ212MTVyYUZJQVlFTEdWMzNMMUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjc5OTAxCWZpbGU6Rm9jdXMtTWF0cml4LmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMQplMHdHQjhUUUorTC90Zk93N1VIOVFObTZYWVFDNFFvMzZPelZhUzNsV0ZEVkZ5SWV3N2Y4OE5wMVMvb1BpaEhmR0JlM3poTHpWUlZ4NXF6Z0lBWlhCZz09Cg==",
+      "url": "https://focus-matrix-app-962cc.web.app/v1.0.1/Focus-Matrix.app.tar.gz"
+    }
+  }
+}
